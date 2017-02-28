@@ -1,0 +1,24 @@
+git init      #start a new repo
+git clone     #get a respose git repo from a url, creat a local copy
+git status    #status of repo
+git log
+git add
+git diff
+git commit
+git reset
+git revert
+git rm
+git clean
+git mv
+git stash
+git branch
+git checkout
+git merge
+git tag
+git remote
+git fetch
+git pull
+git rebase
+git push
+git reflog
+
